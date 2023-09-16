@@ -1,19 +1,3 @@
-# Auth
-
-**Authentication for PHP. Simple, lightweight and secure.**
-
-Written once, to be used everywhere.
-
-Completely framework-agnostic and database-agnostic.
-
-## Why do I need this?
-
- * There are [tons](https://www.troyhunt.com/whos-who-of-bad-password-practices/) [of](https://blog.codinghorror.com/password-rules-are-bullshit/) [websites](https://badpasswordpolicies.tumblr.com/) with weak authentication systems. Don’t build such a site.
- * Re-implementing a new authentication system for every PHP project is *not* a good idea.
- * Building your own authentication classes piece by piece, and copying it to every project, is *not* recommended, either.
- * A secure authentication system with an easy-to-use API should be thoroughly designed and planned.
- * Peer-review for your critical infrastructure is *a must*.
-
 ## Requirements
 
  * PHP 5.6.0+
